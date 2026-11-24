@@ -199,10 +199,7 @@ Actual model performance results are available in the exported results files aft
 ## Author
 
 **Satnam Singh**  
-Registration Number: 12418878  
-Course Code: INT234  
-Lovely Professional University  
-Phagwara, Punjab, India
+
 
 ## Academic Project
 
